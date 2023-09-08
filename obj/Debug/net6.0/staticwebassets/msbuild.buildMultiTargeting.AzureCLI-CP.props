@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AzureCLI-CP.props" />
+</Project>
